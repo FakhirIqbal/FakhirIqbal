@@ -8,19 +8,19 @@
 
 <p align="center">
   <a href="https://fakhiriqbal.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=8E83FB&center=true&vCenter=true&width=620&lines=%3E+Loading+player+profile...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%3E+Class%3A+Web+and+Mobile+App+Developer;%3E+Main+weapon%3A+React+Native+%E2%9A%94%EF%B8%8F;%3E+Side+weapon%3A+Next.js+%F0%9F%9B%A1%EF%B8%8F;%3E+Fuel%3A+chai.+Lots+of+chai.+%E2%98%95;%3E+Press+START+to+explore+%E2%96%B6" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=8B949E&center=true&vCenter=true&width=620&lines=%3E+Loading+player+profile...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%3E+Class%3A+Web+and+Mobile+App+Developer;%3E+Main+weapon%3A+React+Native+%E2%9A%94%EF%B8%8F;%3E+Side+weapon%3A+Next.js+%F0%9F%9B%A1%EF%B8%8F;%3E+Fuel%3A+chai.+Lots+of+chai.+%E2%98%95;%3E+Press+START+to+explore+%E2%96%B6" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://fakhiriqbal.vercel.app"><img src="https://img.shields.io/badge/▶_PRESS_START-Portfolio-5847e0?style=for-the-badge&labelColor=0d1117" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/fakhir-iqbal-a900b4293/"><img src="https://img.shields.io/badge/LinkedIn-Join_my_party-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
-  <a href="mailto:fakhiriqbal53@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send_a_raven-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.asaannamaz"><img src="https://img.shields.io/badge/Google_Play-My_app_is_live-34A853?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=0d1117" alt="Google Play" /></a>
+  <a href="https://fakhiriqbal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-fakhiriqbal.vercel.app-21262d?style=flat-square&color=21262d&labelColor=161b22&logo=googlechrome&logoColor=c9d1d9" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/fakhir-iqbal-a900b4293/"><img src="https://img.shields.io/badge/LinkedIn-Join_my_party-21262d?style=flat-square&color=21262d&labelColor=161b22&logo=linkedin&logoColor=c9d1d9" alt="LinkedIn" /></a>
+  <a href="mailto:fakhiriqbal53@gmail.com"><img src="https://img.shields.io/badge/Email-Send_a_raven-21262d?style=flat-square&color=21262d&labelColor=161b22&logo=gmail&logoColor=c9d1d9" alt="Email" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.asaannamaz"><img src="https://img.shields.io/badge/Google_Play-My_app_is_live-21262d?style=flat-square&color=21262d&labelColor=161b22&logo=googleplay&logoColor=c9d1d9" alt="Google Play" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FakhirIqbal&label=PLAYERS%20WHO%20ENTERED%20THIS%20LEVEL&color=5847e0&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=FakhirIqbal&label=players%20who%20entered%20this%20level&color=30363d&labelColor=161b22&style=flat-square" alt="Profile views" />
 </p>
 
 ---
@@ -60,9 +60,9 @@ status:        Looking for the next boss fight 👾
 
 <p align="center">
   <b>🕹️ Try my live builds →</b>
-  <a href="https://schoolovic.vercel.app"><img src="https://img.shields.io/badge/Schoolovic-SaaS-5847e0?style=flat-square&labelColor=0d1117" alt="Schoolovic" /></a>
-  <a href="https://momentacclaim.com"><img src="https://img.shields.io/badge/Moment_Acclaim-Web-8e83fb?style=flat-square&labelColor=0d1117" alt="Moment Acclaim" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.asaannamaz"><img src="https://img.shields.io/badge/Asaan_Namaz-Android-34A853?style=flat-square&labelColor=0d1117" alt="Asaan Namaz" /></a>
+  <a href="https://schoolovic.vercel.app"><img src="https://img.shields.io/badge/Schoolovic-SaaS-21262d?style=flat-square&color=21262d&labelColor=161b22" alt="Schoolovic" /></a>
+  <a href="https://momentacclaim.com"><img src="https://img.shields.io/badge/Moment_Acclaim-Web-21262d?style=flat-square&color=21262d&labelColor=161b22" alt="Moment Acclaim" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.asaannamaz"><img src="https://img.shields.io/badge/Asaan_Namaz-Android-21262d?style=flat-square&color=21262d&labelColor=161b22" alt="Asaan Namaz" /></a>
 </p>
 
 ---
@@ -114,12 +114,12 @@ status:        Looking for the next boss fight 👾
 ## 📈 Live Scoreboard
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FakhirIqbal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8e83fb&icon_color=8e83fb&rank_icon=github&custom_title=Player%20Stats" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=FakhirIqbal&theme=tokyonight&hide_border=true&background=0d1117&ring=8e83fb&fire=8e83fb&currStreakLabel=8e83fb" alt="GitHub streak — combo counter" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FakhirIqbal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&ring_color=6e7681&rank_icon=github&custom_title=Player%20Stats" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=FakhirIqbal&hide_border=true&background=0d1117&stroke=30363d&ring=6e7681&fire=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=6e7681" alt="GitHub streak — combo counter" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FakhirIqbal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8e83fb&custom_title=Most%20Used%20Weapons&langs_count=6&hide=ruby,objective-c,objective-c%2B%2B,swift,c%2B%2B,java" alt="Most used languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FakhirIqbal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&custom_title=Most%20Used%20Weapons&langs_count=6&hide=ruby,objective-c,objective-c%2B%2B,swift,c%2B%2B,java" alt="Most used languages" />
 </p>
 
 <h3 align="center">🐍 Boss Level: the snake that eats my commits</h3>
@@ -153,13 +153,11 @@ status:        Looking for the next boss fight 👾
   <b>Got a project, a role or a boss you can't beat alone?</b><br />
   <sub>Insert coin below — Player 2 is always welcome. 🪙</sub>
   <br /><br />
-  <a href="https://fakhiriqbal.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-fakhiriqbal.vercel.app-5847e0?style=for-the-badge&labelColor=0d1117" alt="Portfolio" /></a>
-  <a href="mailto:fakhiriqbal53@gmail.com"><img src="https://img.shields.io/badge/📧_Email-fakhiriqbal53@gmail.com-EA4335?style=for-the-badge&labelColor=0d1117" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/fakhir-iqbal-a900b4293/"><img src="https://img.shields.io/badge/💼_LinkedIn-Fakhir_Iqbal-0A66C2?style=for-the-badge&labelColor=0d1117" alt="LinkedIn" /></a>
+  <a href="https://fakhiriqbal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-fakhiriqbal.vercel.app-21262d?style=flat-square&color=21262d&labelColor=161b22&logo=googlechrome&logoColor=c9d1d9" alt="Portfolio" /></a>
+  <a href="mailto:fakhiriqbal53@gmail.com"><img src="https://img.shields.io/badge/Email-fakhiriqbal53@gmail.com-21262d?style=flat-square&color=21262d&labelColor=161b22&logo=gmail&logoColor=c9d1d9" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/fakhir-iqbal-a900b4293/"><img src="https://img.shields.io/badge/LinkedIn-Fakhir_Iqbal-21262d?style=flat-square&color=21262d&labelColor=161b22&logo=linkedin&logoColor=c9d1d9" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=8E83FB&center=true&vCenter=true&width=520&lines=GAME+SAVED+%F0%9F%92%BE;Thanks+for+playing!+%E2%AD%90+the+repos+for+bonus+XP;Code.+Build.+Create." alt="Game saved" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=GAME+SAVED+%F0%9F%92%BE;Thanks+for+playing!+%E2%AD%90+the+repos+for+bonus+XP;Code.+Build.+Create." alt="Game saved" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e83fb,50:3b2fb0,100:0d1117&height=110&section=footer" width="100%" alt="" />
